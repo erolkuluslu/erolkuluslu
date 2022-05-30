@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erolkuluslu
 - 👀 I’m interested in mobile devolopment 
 - 🌱 I’m currently learning Flutter and Java...
-- 💞️ I’m looking to internhip
+- 💞️ I’m looking for internhip
 - 📫 How to reach me erolkuluslu@hotmail.com
 
 <!---
