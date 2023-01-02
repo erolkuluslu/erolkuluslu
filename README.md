@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @erolkuluslu
 - 👀 I’m interested in mobile devolopment 
-- 🌱 I’m currently learning Flutter and Java...
-- 💞️ I’m looking for internhip
+- 🌱 I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java...
+- 💞️ I’m working as a mobile developer @International Labour Association (ILA)
 - 📫 How to reach me erolkuluslusoftware@gmail.com
 
 <!---
