@@ -1,7 +1,6 @@
 
-<p align="center">
-  <h1><b>
--  👋 Hi, I’m Erol Kuluslu.
+<p align="center"><h1><b>
+  👋 Hi, I’m Erol Kuluslu.
       </b></h1>
 
 - Mobile developer @International Labour Association (ILA)
