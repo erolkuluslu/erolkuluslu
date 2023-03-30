@@ -5,7 +5,7 @@
 
 - Mobile developer @International Labour Association (ILA)
 
-- My experience thus far includes developing mobile, Web and desktop applications using Java, Flutter and JavaScript.
+- My experience thus far includes developing mobile, web and desktop applications using Java, Flutter and JavaScript.
 
 - I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java. Furthermore, I am studying to advance my skills in machine learning.
 
