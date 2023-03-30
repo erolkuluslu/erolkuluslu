@@ -1,6 +1,6 @@
-<h1>Text to be larger</h1>
 
--   👋 Hi, I’m @erolkuluslu.
+
+-   *** 👋 Hi, I’m @erolkuluslu. ***
 - I’m third-year computer engineering student at AGU.
 - My experience thus far includes developing mobile and desktop applications using Java, Flutter and JavaScript.
 - I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java. Furthermore, I am studying to advance my skills in machine learning.
