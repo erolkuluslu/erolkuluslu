@@ -3,7 +3,7 @@
   👋 Hi, I’m Erol Kuluslu.
       </b></h1>
 
-- Mobile developer @International Labour Association (ILA)
+- Flutter developer @International Labour Association (ILA)
 
 - My experience thus far includes developing mobile, web and desktop applications using Java, Flutter and JavaScript.
 
