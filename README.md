@@ -3,15 +3,27 @@
   👋 Hi, I’m Erol Kuluslu.
       </b></h1>
 
-- Flutter developer @International Labour Association (ILA)
+# 💫 About Me:
+Flutter developer @International Labour Association (ILA)<br><br>My experience thus far includes developing mobile, web and desktop applications using Java, Flutter and JavaScript.<br><br>I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java. Furthermore, I am studying to advance my skills in machine learning.<br><br>I’m third-year computer engineering student at AGU.<br><br>I have taken part in several volunteer opportunities through Erasmus program.
 
-- My experience thus far includes developing mobile, web and desktop applications using Java, Flutter and JavaScript.
 
-- I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java. Furthermore, I am studying to advance my skills in machine learning.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erol-külüşlü-966ba9210) 
 
-- I’m third-year computer engineering student at AGU.
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=erolkuluslu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=erolkuluslu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=erolkuluslu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- I have taken part in several volunteer opportunities through Erasmus program.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=erolkuluslu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!---
