@@ -4,7 +4,16 @@
       </b></h1>
 
 # 💫 About Me:
-Flutter developer @International Labour Association (ILA)<br><br>My experience thus far includes developing mobile, web and desktop applications using Java, Flutter and JavaScript.<br><br>I’m currently learning and developing projects in Flutter, JavaScript, Phyton and Java. Furthermore, I am studying to advance my skills in machine learning.<br><br>I’m third-year computer engineering student at AGU.<br><br>I have taken part in several volunteer opportunities through Erasmus program.
+- Currently working as a Mobile App Developer at the International Labour Association (ILA).
+-Third-year computer engineering student.
+- Proficient in Java and Flutter for mobile and desktop application development.
+- Familiarity with Python and Java programming languages.
+- Knowledgeable in object-oriented programming, data structures, and algorithms.
+- Experience in developing applications using Firebase, SQLite, and Restful API.
+- Strong skills in Java and SQL, with experience using MySQL and AWS.
+- Hands-on experience working in cross-cultural teams through the Erasmus program.
+- Excellent teamwork, creativity, and leadership abilities.
+- Aspiring to contribute to significant advancements in the software industry
 
 
 ## 🌐 Socials:
