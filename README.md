@@ -42,8 +42,7 @@ to take a look at your changes.
 --->
 [<img src="https://user-images.githubusercontent.com/92374052/228719659-7fea33c4-7c12-41a8-850b-6f0111d07f61.png" width="50" height="50">](mailto:erolkuluslusoftware@gmail.com) 
 
-
-[CV - Erol Külüşlü.pdf](https://github.com/erolkuluslu/erolkuluslu/files/11041503/CV.-.Erol.Kuluslu.pdf)
+[CV_Erol Külüşlü.pdf](https://github.com/erolkuluslu/erolkuluslu/files/11725716/CV_Erol.Kuluslu.pdf)
 
 
 
