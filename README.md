@@ -14,6 +14,7 @@
 - Hands-on experience working in cross-cultural teams through the Erasmus program.
 - Excellent teamwork, creativity, and leadership abilities.
 - Aspiring to contribute to significant advancements in the software industry
+  
 [CV_Erol Külüşlü.pdf](https://github.com/erolkuluslu/erolkuluslu/files/11725716/CV_Erol.Kuluslu.pdf)
 
 ## 🌐 Socials:
