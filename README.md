@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 - Currently working as a Mobile App Developer at the International Labour Association (ILA).
--Third-year computer engineering student.
+- Senior computer engineering student.
 - Proficient in Java and Flutter for mobile and desktop application development.
 - Familiarity with Python and Java programming languages.
 - Knowledgeable in object-oriented programming, data structures, and algorithms.
