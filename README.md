@@ -1,6 +1,6 @@
 
 <p align="center"><h1><b>
-  👋 Hi, I’m Erol Kuluslu.
+  👋 Hi, I’m Erol Kuluslu
       </b></h1>
 
 # 💫 About Me:
