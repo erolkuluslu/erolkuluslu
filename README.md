@@ -15,7 +15,7 @@
 - Excellent teamwork, creativity, and leadership abilities.
 - Aspiring to contribute to significant advancements in the software industry
   
-[CV_Erol Külüşlü.pdf[Erol_Külüşlü_Resume.pdf](https://github.com/user-attachments/files/15958962/Erol_Kuluslu_Resume.pdf)
+[CV[Erol_Külüşlü_Resume.pdf](https://github.com/user-attachments/files/15958962/Erol_Kuluslu_Resume.pdf)
 ]
 
 ## 🌐 Socials:
