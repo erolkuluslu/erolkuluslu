@@ -4,16 +4,13 @@
       </b></h1>
 
 # 💫 About Me:
-- Currently working as a Mobile App Developer at the International Labour Association (ILA).
+- Currently working as a Software Engineeer at the International Labour Association (ILA).
 - Senior computer engineering student.
 - Proficient in mobile application development with Flutter.
-- Experience in developing mobile applications using Firebase, SQLite, and Restful API.
 - Knowledgeable in object-oriented programming, data structures, and algorithms.
 - Experience in Data analysis using Python.
 - Strong skills in SQL.
 - Hands-on experience working in cross-cultural teams through the Erasmus program.
-- Excellent teamwork, creativity, and leadership abilities.
-- Aspiring to contribute to significant advancements in the software industry
   
 [Erol_Külüşlü_Resume.pdf](https://github.com/user-attachments/files/15958962/Erol_Kuluslu_Resume.pdf)
 
