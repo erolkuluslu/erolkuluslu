@@ -8,6 +8,10 @@ I am a dedicated software engineer with over a year of experience at the Interna
   
 [Erol_Kuluslu_CV.pdf](https://github.com/user-attachments/files/17006048/Erol_Kuluslu_CV.pdf)
 
+ILA Portal - Mobile App
+To explore the mobile app I developed, ILA Portal, you can watch the demonstration video by following the link below:
+
+[Watch the video here](https://drive.google.com/drive/folders/1oS2CPHyJ3UbyqHQd3lqV5vICvWgJBBMf)
 
 
 ## 🌐 Socials:
