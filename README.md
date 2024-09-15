@@ -6,7 +6,8 @@
 # 💫 About Me:
 I am a dedicated software engineer with over a year of experience at the International Labour Association, where I honed my skills in developing impactful and user-centric applications. In addition, I have successfully developed various side project applications using Flutter and Dart, incorporating many packages like Firebase, Bloc, Provider, SQLite, Dio, HTTP, Rive and etc. Beyond my technical skills, I have actively participated in over 10 volunteering programs across Europe, which have significantly enhanced my ability to work effectively in cross-cultural teams. 
   
-[Erol_Külüşlü_Resume.pdf](https://github.com/user-attachments/files/15958962/Erol_Kuluslu_Resume.pdf)
+[Erol_Külüşlü_Resume.pd[Erol_Kuluslu_CV.pdf](https://github.com/user-attachments/files/17006048/Erol_Kuluslu_CV.pdf)
+f]()
 
 
 ## 🌐 Socials:
