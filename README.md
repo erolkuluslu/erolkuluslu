@@ -4,14 +4,11 @@
       </b></h1>
 
 # 💫 About Me:
-I am a dedicated software engineer with over a year of experience at the International Labour Association, where I honed my skills in developing impactful and user-centric applications. In addition, I have successfully developed various side project applications using Flutter and Dart, incorporating many packages like Firebase, Bloc, Provider, SQLite, Dio, HTTP, Rive and etc. Beyond my technical skills, I have actively participated in over 10 volunteering programs across Europe, which have significantly enhanced my ability to work effectively in cross-cultural teams. 
+I am a dedicated software engineer with over two years of experience, where I honed my skills in developing impactful and user-centric applications. In addition, I have successfully developed various side project applications using Flutter, Python, Java, JavaScript. Beyond my technical skills, I have actively participated in over 10 volunteering programs across Europe, which have significantly enhanced my ability to work effectively in cross-cultural teams. 
   
-[Erol_Kuluslu_CV.pdf](https://github.com/user-attachments/files/17006048/Erol_Kuluslu_CV.pdf)
+[Erol_Kuluslu_resume.pdf](https://github.com/user-[Erol_külüşlü_resume.pdf](https://github.com/user-attachments/files/18423151/Erol_kuluslu_resume.pdf)
 
-ILA Portal - Mobile App
-To explore the mobile app I developed, ILA Portal, you can watch the demonstration video by following the link below:
 
-[Watch the video here](https://drive.google.com/drive/folders/1oS2CPHyJ3UbyqHQd3lqV5vICvWgJBBMf)
 
 
 ## 🌐 Socials:
