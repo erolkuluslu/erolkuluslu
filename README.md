@@ -113,16 +113,6 @@ I’m **Erol Külüşlü**, a **Software Engineer** blending **AI engineering** 
 
 🔗 [🌐 View All Articles on Medium](https://medium.com/@erolkuluslusoftware)  
 
----
-
-### 🎬 Animated Highlights  
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="AI animation"/>
-</p>
-
-
-
----
 
 # 🌍 Fun Facts  
 - I’ve worked on volunteering projects across **10+ countries** 🌐  
