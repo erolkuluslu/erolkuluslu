@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="AI animation"/>
+</p>
+
 # 🌌 About Me  
 
 I’m **Erol Külüşlü**, a **Software Engineer** blending **AI engineering** with **mobile development**, and currently starting my **Master’s in Electrical & Computer Engineering**.  
