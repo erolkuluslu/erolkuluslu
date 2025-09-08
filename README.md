@@ -97,7 +97,7 @@ I’m **Erol Külüşlü**, a **Software Engineer** blending **AI engineering** 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">  
-<i>Welcome to my writing space — where engineering meets creativity.</i>  
+<i>Welcome to my writing space where engineering meets creativity.</i>  
 
 ---
 
