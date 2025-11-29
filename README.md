@@ -18,9 +18,9 @@ I’m **Erol Külüşlü**, a **Software Engineer** blending **AI engineering** 
 🛠️ **Highlights:**  
 - Architected and published **2 Flutter apps** from scratch 🚀  
 - Built **graph-based RAG pipelines** for multimodal knowledge retrieval (text, video, docs).  
-- Integrated **NLP + Computer Vision** (NER, OCR, transformers) into production workflows.  
-- Deployed **serverless pipelines** with AWS Lambda, Glue, S3 + CI/CD & Docker.  
-- Actively writing on **Medium** about **LLMs, context engineering & Flutter** — sparking lively discussions.  
+- Integrated **NLP + Computer Vision** into production workflows.  
+- Deployed **serverless pipelines** using AWS Lambda, Glue, S3 + CI/CD & Docker.  
+- Actively writing on **Medium** about **LLMs, Data Engineering & Flutter** — sparking lively discussions.  
 - International experience 🌍: Erasmus internship in the **Netherlands** + volunteering in **10+ countries**.  
 
 💡 My long-term vision:  
