@@ -119,7 +119,7 @@ Context engineering · Prompt design<br/>
 </td>
 <td align="center" width="220">
 
-**Production Engineering**
+**Software Engineer**
 
 End-to-end Flutter apps · BLoC · OAuth2<br/>
 AWS Lambda · CI/CD · Serverless<br/>
