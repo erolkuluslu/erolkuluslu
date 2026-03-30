@@ -170,101 +170,6 @@ experiments = {
 
 ---
 
-<!-- ── CURRENT FOCUS ────────────────────────────────────────────────────────── -->
-# 🧩 Current Focus
-
-🔹 **AI Research** → Self-supervised multimodal fusion (CM-JEPA), GNN-based drug repositioning, optimization dynamics in deep learning.  
-🔹 **AI Engineering** → RAG, graph-based retrieval, LLM agents, inference optimization.  
-🔹 **Mobile** → High-quality mobile apps and websites.  
-🔹 **Cloud** → Serverless pipelines, cost-efficient deployment, scalable AI workflows.  
-🔹 **Research & Writing** → Context engineering, multi-agent systems, SLM potential.
-
----
-
-<!-- ── TECH STACK ───────────────────────────────────────────────────────────── -->
-# ⚙️ Tech Stack
-
-<div align="center">
-
-**Core ML & Research**
-
-[![Python](https://skillicons.dev/icons?i=python)](https://python.org)
-[![PyTorch](https://skillicons.dev/icons?i=pytorch)](https://pytorch.org)
-[![TensorFlow](https://skillicons.dev/icons?i=tensorflow)](https://tensorflow.org)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge)](https://huggingface.co)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
-[![NetworkX](https://img.shields.io/badge/NetworkX-Graph-orange?style=for-the-badge)](https://networkx.org)
-
-</div>
-
-### AI & Data
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Graph%20Based-blue?style=flat-square&logo=knowledgebase)
-
-<div align="center">
-
-**Cloud & Infrastructure**
-
-[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![GithubActions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
-
-</div>
-
-### Cloud & Data Pipelines
-![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)
-![Lambda](https://img.shields.io/badge/AWS%20Lambda-F29111?logo=awslambda&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL-Pipelines-purple?style=flat-square)
-
-<div align="center">
-
-**Mobile & Frontend**
-
-[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
-[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
-[![Figma](https://skillicons.dev/icons?i=figma)](https://figma.com)
-[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-
-</div>
-
-
-<div align="center">
-
-**Tooling & Workflows**
-
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
-[![Jupyter](https://skillicons.dev/icons?i=jupyter)](https://jupyter.org)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
-
-</div>
-
-### 🛠 Workflow & Tools
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-000000?logo=githubactions&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile-Scrum-0A66C2)
-
----
-
-<!-- ── GITHUB STATS ─────────────────────────────────────────────────────────── -->
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erolkuluslu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&icon_color=64ffda&text_color=ccd6f6&rank_icon=github" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=erolkuluslu&theme=tokyonight&hide_border=true&background=0d1117&ring=64ffda&fire=ff6b6b&currStreakLabel=64ffda" height="175" alt="Streak Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erolkuluslu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=64ffda&text_color=ccd6f6&langs_count=8" height="150" alt="Top Languages"/>
-</p>
-
----
 
 <!-- ── CONTRIBUTION SNAKE ──────────────────────────────────────────────────── -->
 ## 🐍 Contribution Graph
@@ -326,40 +231,17 @@ experiments = {
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
 <i>Welcome to my writing space where engineering meets creativity.</i>
 
----
-
-### 📖 Latest Medium Articles
-
-<a href="https://medium.com/@erolkuluslusoftware/the-best-flutter-app-architecture-exists-does-it-🤔-6a8f765d5632" target="_blank">
-  <img src="https://img.shields.io/badge/The%20Best%20Flutter%20App%20Architecture%20Exists%20(Does%20it%3F🤔)-%2302569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Article"/>
-</a>
-
-<a href="https://medium.com/@erolkuluslusoftware/context-engineering-the-new-paradigm-every-developer-should-know-4e87e4d028b9" target="_blank">
-  <img src="https://img.shields.io/badge/Context%20Engineering%3A%20The%20New%20Paradigm%20Every%20Developer%20Should%20Know-%23FFD700?style=for-the-badge&logo=readme&logoColor=black" alt="Context Engineering Article"/>
-</a>
-
-[![Medium Profile](https://img.shields.io/badge/All_Articles_→_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erolkuluslusoftware)
-
-</div>
+--
 
 <br/>
 
-✨ *I actively publish on Medium about* **Flutter, large language models, and AI** — turning research concepts into practical, scalable, and developer-friendly systems.
+✨ *I actively publish on Medium about* **Flutter, and AI** — turning research concepts into practical, scalable, and developer-friendly systems.
 
 🔗 [🌐 View All Articles on Medium](https://medium.com/@erolkuluslusoftware)
 
 
 <!-- ── CONNECT ──────────────────────────────────────────────────────────────── -->
 # 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/erolkuluslu/"><img src="https://skillicons.dev/icons?i=linkedin" width="48"/></a>
-  <a href="https://medium.com/@erolkuluslusoftware"><img src="https://img.icons8.com/ios-filled/50/000000/medium-logo.png" width="48"/></a>
-  <a href="mailto:erolkuluslusoftware@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48"/></a>
-  <a href="https://github.com/erolkuluslu"><img src="https://skillicons.dev/icons?i=github" width="48"/></a>
-</p>
-
-<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erolkuluslu)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erolkuluslu)
@@ -378,17 +260,6 @@ experiments = {
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=erolkuluslu&icon=0&color=6" alt="Visitor Count"/>
-</p>
-
 ---
 
-<!-- ── FOOTER ──────────────────────────────────────────────────────────────── -->
 
-<!--
-  Profile repo : erolkuluslu/erolkuluslu
-  Snake action : see .github/workflows/snake.yml comment above
-  Stat theme   : tokyonight — keep consistent across all cards
--->
