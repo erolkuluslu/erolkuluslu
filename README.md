@@ -21,6 +21,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=120&section=footer&text=the%20model%20is%20still%20training...&fontSize=22&fontColor=64ffda&animation=twinkling&fontAlignY=65" width="100%"/>
+</div>
 
 <!-- ── MODEL CARD ──────────────────────────────────────────────────────────── -->
 ## 🧬 Model Card
@@ -383,9 +386,6 @@ experiments = {
 ---
 
 <!-- ── FOOTER ──────────────────────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=120&section=footer&text=the%20model%20is%20still%20training...&fontSize=22&fontColor=64ffda&animation=twinkling&fontAlignY=65" width="100%"/>
-</div>
 
 <!--
   Profile repo : erolkuluslu/erolkuluslu
