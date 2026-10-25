@@ -1,265 +1,99 @@
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!--                        EROL KÜLÜŞLÜ · GITHUB PROFILE                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-<!-- ── HEADER ──────────────────────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,24&height=220&section=header&text=Erol%20Külüşlü&fontSize=68&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Researcher%20%E2%80%94%20Computer%20Vision%20%C2%B7%20Applied%20ML%20%C2%B7%20Biomedical%20AI&descAlignY=60&descSize=17&descColor=ccd6f6" width="100%"/>
-</div>
-
-<br/>
-
-<!-- ── TYPING ANIMATIONS ───────────────────────────────────────────────────── -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=64FFDA&center=true&vCenter=true&width=720&lines=Training+loss%3A+converging+%E2%86%98+%E2%9C%93;Architecture%3A+multimodal+%28RGB+%2B+IR+%2B+caffeine%29;Currently+exploring+latent+space...;Self-supervised+by+curiosity+%E2%80%94+fine-tuned+by+deadlines;Software+Engineer+%C2%B7+MSc+Researcher+%C2%B7+AI+Educator" alt="Research Typing SVG" />
-</div>
-
----
+<!-- Erol Külüşlü · GitHub profile README -->
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" alt="AI animation"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,12,20,24&height=190&section=header&text=Erol%20K%C3%BCl%C3%BC%C5%9Fl%C3%BC&fontSize=61&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Applied%20AI%20%C2%B7%20MSc%20Research&descAlignY=62&descSize=17&descColor=ccd6f6" width="100%" alt="Erol Külüşlü — Software Engineer, Applied AI, MSc Research" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1600&color=64FFDA&center=true&vCenter=true&width=750&lines=From+mobile+apps+to+multimodal+models.;Sometimes+the+baseline+wins.+That's+research." alt="From mobile apps to multimodal models. Sometimes the baseline wins. That's research." />
+
+  <br />
+  <a href="https://linkedin.com/in/erolkuluslu"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:erol.kuluslu@agu.edu.tr"><img alt="Email" src="https://img.shields.io/badge/Email-444?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://medium.com/@erolkuluslusoftware"><img alt="Medium" src="https://img.shields.io/badge/Writing-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
 </div>
 
----
+About
+I'm a software engineer and MSc student in Computer Engineering at Abdullah Gül University. I'm currently in Germany for my Erasmus+ master's thesis at Hochschule Aalen.
+
+My background includes Flutter apps, backend services, document processing, and workflow automation. My research focuses on machine learning for images, structured data, and retrieval systems. I've also taught Python and AI to students, educators, and public-sector groups.
+
+I like work that moves between building a system, testing how well it works, and explaining the result.
+What I'm working on now
+Multimodal learning for battery manufacturing · MSc thesis, Hochschule Aalen
+2026–2027 · Ongoing research
+
+I'm studying how microscopy images and material measurements can support prediction and analysis in battery manufacturing.
+- Data: light microscopy, surface roughness (WLI), SEM cross-sections, four-point-probe measurements, and related sample metadata.
+- Current work: dataset inspection, sample alignment, segmentation checks, and image/measurement feature analysis.
+- Model plan: compare image-only and measurement-only baselines with feature concatenation and attention-based fusion.
+- Constraint: the image data is available; additional time-series data is not yet ready. I am checking data quality and target definitions before reporting model results.
+The project is part of my thesis, “Developing a Multi-Modal Machine Learning Model for Manufacturing Data.” The working repository and raw research data are not public.
+Selected projects
+01 · MNEME — Temporal Knowledge Graph RAG
+Python · Sentence-BERT · BM25 · NetworkX · Louvain · LLMs
+
+A research implementation for querying personal documents with time-aware retrieval and citations. I developed it with collaborators as part of our work on LLM memory and retrieval.
+- Builds a chunk-level knowledge graph with typed relationships and time metadata.
+- Combines dense retrieval and BM25 with Reciprocal Rank Fusion (RRF).
+- Uses query routing, graph communities, hub/bridge nodes, and year-aware citation checks.
+- Includes evaluation scripts, tests, and a research manuscript.
+Code and architecture
+02 · CM-JEPA — RGB / Infrared Fusion
+PyTorch · Self-supervised learning · JEPA · Computer vision
+
+I tested whether JEPA-based cross-modal learning could improve lightweight object detection and segmentation from paired visible and infrared images.
+- Evaluated 6,025 aligned image pairs from M3FD, MSRS, and RoadScene.
+- Compared RGB-only, infrared-only, average fusion, attention variants, and CM-JEPA gate-blend.
+- Measured downstream results with YOLO11n (detection) and U-Net / MobileNetV2 (segmentation).
+- Finding: average fusion performed better overall. Its segmentation mIoU was 0.5551, compared with 0.4774 for gate-blend. This result informs the next model design.
+Reproducible notebook, metrics, and paper
+03 · ILA — Mobile applications and workflow automation
+Flutter · Dart · BLoC · OAuth2 · AWS · OCR / NLP
+
+At International Labour Association (ILA), I worked on two mobile applications and software used to support international education and Erasmus+ activities.
+- Built and maintained app features for project discovery, applications, profiles, and related workflows.
+- Developed an OCR-based travel-document flow: mobile capture → text extraction → field validation → backend processing.
+- Worked on document/entity extraction, cloud functions, and internal automations to reduce manual steps.
+- Contributed across mobile, backend, and integration tasks in an international team.
+Some of this work is proprietary, so I describe my contribution without publishing the source code. ILA Portal on the App Store · ILA
+04 · MuloAD — Cross-population cancer classification
+GraphSAGE · VCDN · Biomedical machine learning
+
+Research on colorectal-cancer classification from gut-microbiome data. I adapted graph-based learning and multimodal integration methods and evaluated how models transfer between populations.
+- Compared models under cross-population evaluation rather than relying only on within-dataset splits.
+- An earlier experiment reached ROC-AUC 0.808 for Japan → India transfer.
+- This is an experiment-specific result, not a general clinical performance claim.
+05 · Mnemosyne Agents — Multi-agent orchestration
+Python · Agent orchestration · Monitoring · Async workflows
+
+An experimental agent platform with an orchestrator for text, audio, image, and video tasks. The repository includes prompt chaining, vector memory, caching, retry policies, rate limiting, and monitoring components.
+<details>
+<summary><b>More code and experiments</b></summary>
+
+
+- Image Classifier: image preprocessing, embeddings, dataset cleanup, PyTorch training, and a Gradio interface.
+- Expense Tracking: a Flutter app used to explore BLoC state management and expense visualization.
+- ISIC 2024 experiments: compared image/tabular late fusion and optimization strategies for skin-lesion classification.
+</details>
+
+Engineering and research toolkit
+Area	Tools and methods
+Software	Python, Dart, Flutter, REST APIs, Git, CI/CD
+Cloud and automation	AWS Lambda, serverless workflows, OCR, information extraction, n8n
+Machine learning	PyTorch, scikit-learn, computer vision, self-supervised learning, multimodal fusion
+LLM systems	RAG, hybrid search, knowledge graphs, LLM agents, retrieval evaluation
+
+
+Teaching and international work
+- AI education, Kayseri Bilişim Akademisi: planned and delivered applied AI, ML, and Python training. I worked with students, teachers, and public institutions.
+- ILA, Amsterdam: gained software engineering experience in a team working on international education and mobility projects.
+- Erasmus+ and volunteering: participated in international projects and volunteering activities across Europe. My current Erasmus mobility is based at Aalen University.
+I enjoy technical conversations as much as the implementation work. Teaching has made me more careful about explaining assumptions, limitations, and results.
+Activity
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20,24&height=120&section=footer&text=the%20model%20is%20still%20training...&fontSize=22&fontColor=64ffda&animation=twinkling&fontAlignY=65" width="100%"/>
+  <img src="https://raw.githubusercontent.com/erolkuluslu/erolkuluslu/output/snake.svg" alt="GitHub contribution snake" width="95%" />
 </div>
-
-<!-- ── MODEL CARD ──────────────────────────────────────────────────────────── -->
-## 🧬 Model Card
-
-<div align="center">
-
-| Parameter | Value |
-|:---|:---|
-| **Current Epoch** | MSc in ECE · Abdullah Gül University · Est. 2027 |
-| **Loss** | Converging ↘ (slowly, like all good research) |
-| **Status** | 🟢 Active · Multiple experiments running in parallel |
-
-</div>
-
----
-
-<!-- ── ABOUT ME ─────────────────────────────────────────────────────────────── -->
-# About Me
-
-I'm **Erol Külüşlü**, a **Software Engineer** and **MSc Researcher** in Computer Vision & Applied ML at Abdullah Gül University, currently working as an **AI Specialist** at Kayseri Bilişim Akademisi.
-
-I build and study **end-to-end intelligent systems** — spanning self-supervised multimodal learning, graph neural networks for biomedical AI, retrieval-augmented generation, and production-grade software engineering.
-
-**Highlights:**
-- Designing **CM-JEPA**: a self-supervised RGB-IR fusion framework using JEPA-based latent prediction, VICReg regularization, and gradient-based structural consistency.
-- Adapting **MuloAD (GraphSAGE + VCDN)** for colorectal cancer classification from gut microbiome data — best result: cross-population AUC = 0.808 (JPN → IND).
-- Built **MNEME**: a temporal knowledge graph RAG system over 187 documents across four domains — submitted for journal publication.
-- Designing and delivering **AI/ML training programs** for university students, teachers, and public institutions.
-- Built production NER pipelines, OCR benchmarking frameworks, and serverless AWS infrastructure across 2.5 years at ILA Amsterdam.
-- Writing on **Medium** about LLMs, context engineering, and applied AI systems.
-- International experience: Erasmus+ exchange in the **Netherlands** + volunteering across **10+ countries**.
-
-> Building systems that understand context, retain knowledge, and make intelligence accessible — at every scale.
-
-[Check out my resume](https://github.com/user-attachments/files/26358050/Erol_Kuluslu_CV.pdf)
----
-
-<!-- ── RESEARCH AREAS ───────────────────────────────────────────────────────── -->
-## 🔬 Research Areas
-
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="220">
-
-**Computer Vision**
-
-RGB-IR multimodal fusion<br/>
-Self-supervised representation learning<br/>
-Domain adaptation · Segmentation<br/>
-*CM-JEPA (JEPA + VICReg + grad loss)*
-
-</td>
-<td align="center" width="220">
-
-**Biomedical AI**
-
-Graph neural networks for drug repositioning<br/>
-Gut microbiome → cancer classification<br/>
-GraphSAGE · VCDN · Multi-omics<br/>
-*MSc Thesis + ECE648 Project*
-
-</td>
-<td align="center" width="220">
-
-**Knowledge & Retrieval**
-
-Temporal knowledge graph RAG<br/>
-Community detection · Hub/bridge analysis<br/>
-Sentence-BERT · Louvain · RRF<br/>
-*MNEME — submitted to journal*
-
-</td>
-</tr>
-<tr>
-<td align="center" width="220">
-
-**Optimization Dynamics**
-
-Adaptive learning rate methods<br/>
-Gradient starvation in multimodal nets<br/>
-AdaGrad · RMSprop · Adam · AdamW<br/>
-*ECE567 systematic study*
-
-</td>
-<td align="center" width="220">
-
-**AI Systems & Agents**
-
-RAG pipelines · LLM orchestration<br/>
-n8n automation · Agentic workflows<br/>
-Context engineering · Prompt design<br/>
-*Published on Medium*
-
-</td>
-<td align="center" width="220">
-
-**Software Engineer**
-
-End-to-end Flutter apps · BLoC · OAuth2<br/>
-AWS Lambda · CI/CD · Serverless<br/>
-NER pipelines · OCR benchmarking<br/>
-*3 years @ ILA Amsterdam*
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<!-- ── ACTIVE EXPERIMENTS ──────────────────────────────────────────────────── -->
-## Active Experiments
-
-```python
-experiments = {
-    "CM-JEPA": {
-        "desc":   "Cross-modal RGB-IR fusion via JEPA-based latent prediction",
-        "loss":   "L_JEPA + α·L_VIC + γ·L_grad",
-        "eval":   ["YOLOv8-Nano", "MobileNetV2/U-Net"],
-        "data":   ["M3FD", "MSRS", "LLVIP", "TNO"],
-        "status": "🟡 Active Research",
-    },
-    "MuloAD-CRC": {
-        "desc":   "GraphSAGE + VCDN for colorectal cancer · gut microbiome",
-        "result": "Cross-population AUC = 0.808 (JPN → IND)",
-        "key_biomarker": "Peptostreptococcus stomatis",
-        "status": "🟠 Preparing Journal Submission",
-    },
-    "MNEME": {
-        "desc":   "Temporal KG-RAG · 187 docs · 4 domains · 2020–2025",
-        "stack":  "Sentence-BERT + Louvain + RRF",
-        "mrr":    0.85,
-        "status": "🟢 Submitted",
-    },
-    "Optimizer-Skin": {
-        "desc":   "Late-fusion multimodal optimizer comparison · ISIC 2024",
-        "configs": ["Uniform Adam", "Decoupled LR", "Asymm SGD+NAG/Adam", "AdaGrad"],
-        "status": "🔵 In Progress",
-    },
-}
-```
-
----
-
-
-<!-- ── CONTRIBUTION SNAKE ──────────────────────────────────────────────────── -->
-## 🐍 Contribution Graph
 
 <div align="center">
-
-> *"Every green square is a step in gradient descent."*
-
-<!--
-  To enable the snake animation, create this file in your profile repo:
-  .github/workflows/snake.yml
-
-  name: Generate Snake
-  on:
-    schedule: [{ cron: "0 0 * * *" }]
-    workflow_dispatch:
-  jobs:
-    generate:
-      runs-on: ubuntu-latest
-      steps:
-        - uses: Platane/snk@v3
-          with:
-            github_user_name: ${{ github.repository_owner }}
-            outputs: dist/snake.svg?palette=github-dark
-        - uses: crazy-max/ghaction-github-pages@v3
-          with:
-            target_branch: output
-            build_dir: dist
-          env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
--->
-
-![snake svg](https://github.com/erolkuluslu/erolkuluslu/blob/output/snake.svg)
-
+  <sub>Based in Aalen, Germany · From Kayseri, Türkiye</sub><br />
+  <sub><a href="https://github.com/erolkuluslu">GitHub</a> · <a href="https://linkedin.com/in/erolkuluslu">LinkedIn</a> · <a href="mailto:erol.kuluslu@agu.edu.tr">Email</a></sub>
 </div>
-
----
-
-<!-- ── INTERNATIONAL FOOTPRINT ─────────────────────────────────────────────── -->
-## 🌍 International Footprint
-
-```
-🇹🇷 Kayseri, Turkey     — AGU · Research base 
-🇳🇱 Amsterdam, NL       — ILA · 3 years Software engineering
-🌐 10+ countries        — EVS/ESC volunteering across Europe
-```
-
----
-
-<!-- ── FEATURED WRITING ─────────────────────────────────────────────────────── -->
-# ✍️ Featured Writing
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=📚+I+write+about+AI%2C+Flutter%;✨+Exploring+LLMs%2C+RAG%2C+and+Scalable+App+Design;🚀+Turning+Ideas+Into+Working+Systems" alt="Writing Typing Animation" />
-</p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px">
-<i>Welcome to my writing space where engineering meets creativity.</i>
-
---
-
-<br/>
-
-✨ *I actively publish on Medium about* **Flutter, and AI** — turning research concepts into practical, scalable, and developer-friendly systems.
-
-🔗 [🌐 View All Articles on Medium](https://medium.com/@erolkuluslusoftware)
-
-
-<!-- ── CONNECT ──────────────────────────────────────────────────────────────── -->
-# 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erolkuluslu)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/erolkuluslu)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@erolkuluslusoftware)
-[![Email](https://img.shields.io/badge/AGU_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erol.kuluslu@agu.edu.tr)
-
-</div>
-
----
-
-<!-- ── QUOTE & VISITOR COUNT ───────────────────────────────────────────────── -->
-<p align="center">
-  <i>"Code is temporary, but architecture and ideas last."</i>
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
-</p>
----
-
-
