@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Engineering workflow">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#0f172a"/><stop offset="100%" stop-color="#1e293b"/>
+</linearGradient>
+</defs>
+<rect width="1200" height="360" rx="28" fill="url(#bg)"/>
+<text x="42" y="54" font-family="Inter,Segoe UI,Arial" font-size="34" font-weight="700" fill="#fff">How I usually build systems</text>
+<g font-family="Inter,Segoe UI,Arial" font-size="22" fill="#e2e8f0">
+  <rect x="40" y="120" width="180" height="120" rx="22" fill="#1d4ed8"/><text x="70" y="170">Problem</text><text x="70" y="202">scope</text>
+  <rect x="270" y="120" width="180" height="120" rx="22" fill="#0f766e"/><text x="300" y="170">Data</text><text x="300" y="202">inspection</text>
+  <rect x="500" y="120" width="180" height="120" rx="22" fill="#7c3aed"/><text x="530" y="170">Model /</text><text x="530" y="202">system</text>
+  <rect x="730" y="120" width="180" height="120" rx="22" fill="#b45309"/><text x="760" y="170">Evaluate</text><text x="760" y="202">and debug</text>
+  <rect x="960" y="120" width="190" height="120" rx="22" fill="#be123c"/><text x="990" y="170">Explain</text><text x="990" y="202">and iterate</text>
+</g>
+<g stroke="#94a3b8" stroke-width="4" fill="none" stroke-linecap="round">
+  <path d="M220 180 H260"/><path d="M450 180 H490"/><path d="M680 180 H720"/><path d="M910 180 H950"/>
+</g>
+<g fill="#94a3b8"><polygon points="252,172 266,180 252,188"/><polygon points="482,172 496,180 482,188"/><polygon points="712,172 726,180 712,188"/><polygon points="942,172 956,180 942,188"/></g>
+<text x="42" y="304" font-family="JetBrains Mono,Consolas,monospace" font-size="18" fill="#93c5fd">build → measure → explain → improve</text>
+</svg>
