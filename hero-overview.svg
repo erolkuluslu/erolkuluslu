@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Software Engineer · Applied AI · MSc Research">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Erol Külüşlü, Software Engineer, Aalen Germany">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#0f172a"/>
-      <stop offset="55%" stop-color="#1d4ed8"/>
-      <stop offset="100%" stop-color="#22d3ee"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0.8">
+      <stop offset="0%" stop-color="#111a30"/>
+      <stop offset="100%" stop-color="#19356b"/>
     </linearGradient>
-    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="rgba(255,255,255,0.25)"/>
-      <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
-    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#60a5fa" stop-opacity="0.13"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.55"/>
+    </linearGradient>
   </defs>
-  <rect width="1200" height="320" rx="28" fill="url(#g)"/>
-  <circle cx="1010" cy="84" r="120" fill="url(#glow)"/>
-  <circle cx="1040" cy="120" r="72" fill="none" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
-  <circle cx="1040" cy="120" r="42" fill="none" stroke="rgba(255,255,255,0.35)" stroke-width="2"/>
-  <path d="M840 230 C900 160, 980 250, 1060 190 S1160 220, 1180 150" fill="none" stroke="rgba(255,255,255,0.40)" stroke-width="5" stroke-linecap="round"/>
-  <rect x="835" y="190" width="180" height="72" rx="18" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.16)"/>
-  <text x="865" y="218" font-family="JetBrains Mono,Consolas,monospace" font-size="15" fill="#d1fae5">build → measure</text>
-  <text x="865" y="242" font-family="JetBrains Mono,Consolas,monospace" font-size="15" fill="#dbeafe">test → explain</text>
-  <text x="36" y="92" font-family="Inter,Segoe UI,Arial" font-size="42" font-weight="700" fill="#ffffff">Software Engineer · Applied AI · MSc Research</text>
-  <foreignObject x="36" y="112" width="720" height="78">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family:Inter,Segoe UI,Arial;font-size:23px;line-height:1.35;color:#e5e7eb;">
-      Flutter apps · OCR workflows · Multimodal ML · RAG systems
-    </div>
-  </foreignObject>
-  <rect x="36" y="198" rx="16" ry="16" width="159" height="34" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.16)"/>
-<text x="52" y="220" font-family="Inter,Segoe UI,Arial" font-size="16" fill="#e5e7eb">Aalen / Germany</text><rect x="207" y="198" rx="16" ry="16" width="90" height="34" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.16)"/>
-<text x="223" y="220" font-family="Inter,Segoe UI,Arial" font-size="16" fill="#e5e7eb">AGU</text><rect x="309" y="198" rx="16" ry="16" width="150" height="34" fill="rgba(255,255,255,0.10)" stroke="rgba(255,255,255,0.16)"/>
-<text x="325" y="220" font-family="Inter,Segoe UI,Arial" font-size="16" fill="#e5e7eb">Erasmus Thesis</text>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <path d="M760 0L965 0L760 280L575 280Z" fill="#e2e8f0" opacity="0.018"/>
+  <path d="M1100 0L1200 0L1200 280L887 280Z" fill="#93c5fd" opacity="0.033"/>
+  <path d="M870 214 C928 178 973 206 1037 137 C1090 82 1145 110 1194 53" fill="none" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="1037" cy="137" r="7" fill="#38bdf8" opacity="0.8"/>
+  <circle cx="870" cy="214" r="5" fill="#60a5fa" opacity="0.65"/>
+  <text x="62" y="112" font-family="Arial, Helvetica, sans-serif" font-size="65" font-weight="700" fill="#ffffff">Erol Külüşlü</text>
+  <text x="65" y="164" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="400" fill="#d3e2f5">Software Engineer</text>
+  <rect x="62" y="196" rx="17" width="166" height="36" fill="#ffffff" fill-opacity="0.10" stroke="#ffffff" stroke-opacity="0.16"/>
+  <text x="82" y="220" font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#e2e8f0">Aalen, Germany</text>
 </svg>
